@@ -1,5 +1,5 @@
 # security-with-springboot
-Spring Boot Server with Secure User Auth (jwt) and H2 DB
+Spring Boot Backend Server with Secure User Auth (jwt) using the Java based H2 Database
 
 ## To setup and run this project, please follow these instrustions:
 ### Step1
